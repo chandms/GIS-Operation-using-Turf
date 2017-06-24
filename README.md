@@ -17,8 +17,8 @@ to this directory.
 Next, you should open `index.js`, either locally or
 [on GitHub](index.js), read through the code comments to understand what it does.
 
+Change the location of the sync folder in the index file. Place all the geojson files inside the sync folder.
 When you feel comfortable with your understanding of the process, run it:
-
 ```sh
 $ node index.js
 ```
