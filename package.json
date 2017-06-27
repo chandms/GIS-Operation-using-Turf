@@ -16,7 +16,8 @@
   "license": "ISC",
   "dependencies": {
     "@turf/turf": "^4.3.1",
-    "geojson-area": "^0.2.1"
+    "geojson-area": "^0.2.1",
+    "natural": "^0.5.4"
   },
   "repository": {
     "type": "git",
